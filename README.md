@@ -1,78 +1,74 @@
 # Hi, I'm Hakan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=haki36&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/haki36?label=Follow&style=social)
+**Python Backend Developer · AI Engineering Focus**
 
-🚀 **Python Developer | Backend & AI-Focused**  
-🤖 Building practical AI-assisted software solutions  
-📍 Berlin, Germany  
+I build practical backend applications and AI-assisted workflows, with a focus on maintainable code, reliable data handling, and software that solves real operational problems.
 
----
-
-## 🧠 About Me
-
-I am a Python-focused software developer building structured backend applications and exploring AI integration in practical software solutions.
-
-With a background in IT systems and over a decade of leadership experience in operational environments, I combine analytical thinking with entrepreneurial responsibility.
-
-I focus on writing clean, maintainable, and scalable code — especially in data-driven and AI-assisted systems.
+📍 Berlin, Germany &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/hakan-yildirim-tech) &nbsp;·&nbsp; [GitHub](https://github.com/haki36)
 
 ---
 
-## 🧰 AI / ML Focus
+## What I'm building
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-1F2937?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-334155?style=for-the-badge)
+### AI-assisted scheduling platform
 
----
+**Private project · In active development · Not yet production-released**
 
-## 🛠 Tech Stack
+I'm developing a scheduling and administration platform for driving schools, combining conventional business workflows with AI-assisted planning.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Backend and data:** Python, Flask, SQLAlchemy, PostgreSQL, and database migrations.
+- **Planning workflows:** Lesson scheduling, availability checks, resource coordination, and conflict validation.
+- **AI integration:** LLM-assisted scheduling suggestions with explicit human confirmation before changes are committed.
+- **Engineering quality:** Role-based access controls, automated regression tests, and attention to transaction safety.
+- **Architecture in progress:** SaaS readiness, tenant isolation, and operational reliability.
 
-**Also familiar with (past exposure):**  
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+The application is being developed privately; the source code is not publicly available.
 
----
+## Selected public projects
 
-## 🎯 Current Focus
-
-- RAG systems (chunking, embeddings, retrieval quality)
-- LLM integration into backend services
-- AI evaluation & hallucination reduction
-- Production thinking (latency, cost, reliability)
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Book Alchemy](https://github.com/haki36/Book-Alchemy) | Digital library with book and author management, search, and sorting | Python, Flask, SQLAlchemy, SQLite |
+| [Masterblog API](https://github.com/haki36/Masterblog-API) | REST API with CRUD operations, search, sorting, and Swagger documentation | Python, Flask, REST, JSON |
+| [Flight Data CLI](https://github.com/haki36/Sky-SQL-2) | Database queries through a CLI with CSV export and separated data access | Python, SQLAlchemy, SQLite |
 
 ---
 
-## 📊 GitHub Stats
+## Tech stack
 
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=haki36&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haki36&layout=compact)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+| Area | Tools and practices |
+| --- | --- |
+| Backend | Python, Flask, REST APIs, SQLAlchemy |
+| Data | PostgreSQL, SQLite, SQL, schema migrations |
+| AI application development | LLM API integration, structured outputs, workflow safeguards, Langfuse tracing |
+| Quality | pytest, regression testing, manual end-to-end verification, Git |
+| Web and operations | Jinja2, HTML, CSS, JavaScript, Linux, nginx, Gunicorn |
+
+## What matters to me
+
+- **Clarity over complexity:** Readable architecture and code that is easier to maintain.
+- **Verification over assumptions:** Tests, explicit validation, and careful release decisions.
+- **Practical AI:** AI should support users' decisions, not silently make irreversible changes.
+- **End-to-end ownership:** Connecting implementation details with real business needs.
+
+My background includes IT systems and operational leadership. I bring that perspective to the software I design and build.
+
+## Currently exploring
+
+- Robust LLM integration, evaluation, and observability.
+- Secure multi-tenant application design.
+- Reliable backend services and production-ready development practices.
 
 ---
 
-## 📈 Strengths
+**Interested in Python backend development, applied AI, and useful software products.**
 
-- Structured problem solving  
-- Leadership & ownership mindset  
-- Business + technical perspective  
-- Continuous learning  
-
----
-
-## 📫 Connect with Me
-
-[GitHub](https://github.com/haki36)  
-[LinkedIn](https://linkedin.com/in/hakan-yildirim-tech)
-
----
-
-⭐ Building backend systems. Shipping AI features.
+[Connect on LinkedIn](https://linkedin.com/in/hakan-yildirim-tech)
